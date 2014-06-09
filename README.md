@@ -1,3 +1,3 @@
-# Ruby on Rails Tutorial: sample application
+# Ruby on Rails Tutorial: bloging website
 
-This is the new sample application for the [*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
+This is the project folder to learn and implement Ruby on Rails.
